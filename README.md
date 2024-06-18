@@ -2,7 +2,7 @@
 ![bannerMovimiento](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/aa7f9e1b-ddb0-4d4a-bb33-41d3e516e03a)
 [![boton_transparente](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/57d2449d-039c-46a1-9be1-38db05a9affc)](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/c9c1b731-a15e-49ab-89c8-c268408df141)
 [![Contacto](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/f944341a-8b62-489e-aa59-af0051384982)](mailto:pedroldesign@gmail.com)
-
+![Portafolio](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/00eae433-dfe8-4d40-9469-b27f2875aaf6)
 <br />
 
 ### --- Desarrollador Full-Stack con título de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma ---
