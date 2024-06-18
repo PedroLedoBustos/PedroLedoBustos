@@ -2,10 +2,7 @@
 ![banner_git](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/b6954a5c-ab09-4758-a055-430609eaa10e)
 
 <br/>
-<a href="https://twitter.com/8bithemant">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+<a href="www.linkedin.com/in/pedro-ledo">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/ihemantjoshi">
