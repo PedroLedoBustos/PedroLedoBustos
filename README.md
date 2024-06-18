@@ -1,5 +1,5 @@
 ### Hello World, I´m Pedro 👋.
-![banner_git](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/b6954a5c-ab09-4758-a055-430609eaa10e)
+![bannerMovimiento](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/aa7f9e1b-ddb0-4d4a-bb33-41d3e516e03a)
 
 <br/>
 <a href="https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/c9c1b731-a15e-49ab-89c8-c268408df141">
