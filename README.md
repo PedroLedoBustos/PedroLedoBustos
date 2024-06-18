@@ -1,16 +1,6 @@
 ### Hello World, I´m Pedro 👋.
 ![bannerMovimiento](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/aa7f9e1b-ddb0-4d4a-bb33-41d3e516e03a)
-
-<br/>
-<a href="https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/c9c1b731-a15e-49ab-89c8-c268408df141">
-  <img align="left" alt="Linkedin" width="22px" src="https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/439d563d-26f8-4970-88f5-c66acc937abc" />
-</a>
-<a href="https://t.me/ihemantjoshi">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![botonCurriculum](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/89b2d362-05ed-4b10-af37-0150becafd2d)](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/c9c1b731-a15e-49ab-89c8-c268408df141)
 
 <br />
 
