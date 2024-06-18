@@ -38,6 +38,7 @@
 ### - Languages and Tools 💻
 
 ![Banner de LinkedIn Tecnología Abstracto Azul y Blanco](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/2678ee29-509b-4527-b4c7-24fbf4b229de)
+![2](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/b56edd08-14d7-4fd6-9786-4f69efa42683)
 
 
 </p>
