@@ -3,7 +3,7 @@
 
 <br/>
 <a href="https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/c9c1b731-a15e-49ab-89c8-c268408df141">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/439d563d-26f8-4970-88f5-c66acc937abc" />
 </a>
 <a href="https://t.me/ihemantjoshi">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
