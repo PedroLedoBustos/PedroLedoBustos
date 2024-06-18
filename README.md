@@ -1,4 +1,4 @@
-### Hola, soy PedroLedo, bienvenido a mi perfil de  👋.
+### Hello World, I´m Pedro 👋.
 ![banner_git](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/b6954a5c-ab09-4758-a055-430609eaa10e)
 
 <br/>
@@ -13,33 +13,22 @@
 </a>
 
 <br />
+### Hola🙋‍♂️,
 
-### Hi 🙋‍♂️,
-### I'm 18 years old Self-taught Full-Stack developer from India.
+### --- Desarrollador Full-Stack con título de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma ---
 
+###       👨‍💻 Actualmente, estoy perfeccionando mis habilidades en inteligencia artificial y ciencia de datos, especialmente en el uso de Python, TensorFlow y PyTorch.
+###        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">   Soy un apasionado de los deportes y todo lo relacionado con la tecnología.
+### Mis principales áreas de especialización incluyen:
 
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
-
-
-
-
-#### - 🔭 SpaceX FanBoi, 
-
-#### - 🛸 Into Hight Energy Physics and Astrophysics
-
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
-
-
-<br />
-
-
-**I am Into , 🙏**
-
-**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
-<br />
-
-
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+### Programación en Python, Java, SQL, HTML, XML, CSS y JavaScript
+### Aprendizaje Automático (Machine Learning)
+### Desarrollo Web
+### Desarrollo de Aplicaciones
+### Microservicios
+### Diseño de Sistemas
+### Programación Competitiva
+### Estoy comprometido con el aprendizaje continuo y busco colaborar con profesionales del sector para desarrollar soluciones innovadoras y eficientes.
 
 <br />
 
