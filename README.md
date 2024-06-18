@@ -13,21 +13,20 @@
 </a>
 
 <br />
-### Hola🙋‍♂️,
 
 ### --- Desarrollador Full-Stack con título de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma ---
 
 ###       👨‍💻 Actualmente, estoy perfeccionando mis habilidades en inteligencia artificial y ciencia de datos, especialmente en el uso de Python, TensorFlow y PyTorch.
 ###        <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">   Soy un apasionado de los deportes y todo lo relacionado con la tecnología.
-### Mis principales áreas de especialización incluyen:
+<br />
+<br />
+                                          Mis principales áreas de especialización incluyen:
 
-### Programación en Python, Java, SQL, HTML, XML, CSS y JavaScript
-### Aprendizaje Automático (Machine Learning)
-### Desarrollo Web
-### Desarrollo de Aplicaciones
-### Microservicios
-### Diseño de Sistemas
-### Programación Competitiva
+###        🚀Programación en Python, Java, SQL, HTML, XML, CSS , JavaScript, Kotlin, Flutter...
+###        ⚡Aprendizaje Automático (Machine Learning)
+###        👨🏽‍💻Desarrollo Web
+###        🎯Desarrollo de Aplicaciones
+###        ✍️Microservicios
 ### Estoy comprometido con el aprendizaje continuo y busco colaborar con profesionales del sector para desarrollar soluciones innovadoras y eficientes.
 
 <br />
