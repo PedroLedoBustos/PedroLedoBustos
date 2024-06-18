@@ -14,9 +14,6 @@
 
 <br />
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
-<br />
-
 ### Hi 🙋‍♂️,
 ### I'm 18 years old Self-taught Full-Stack developer from India.
 
@@ -57,22 +54,10 @@
 
 </p>
 
-### - Blogs 🌱
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-</p>
-
-### - Podcast ⚡️
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-
-
 ***********************************
 
-#### Thank You-🙏🏼
+#### Gracias por visitar mir perfil-🙏🏼
 
 
 
-⭐️ From [8bithemant](https://github.com/8bithemant)
+⭐️ From [PedroLedoBustos](https://github.com/PedroLedoBustos)
