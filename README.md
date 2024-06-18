@@ -1,6 +1,7 @@
 ### Hello World, I´m Pedro 👋.
 ![bannerMovimiento](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/aa7f9e1b-ddb0-4d4a-bb33-41d3e516e03a)
 [![boton_transparente](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/57d2449d-039c-46a1-9be1-38db05a9affc)](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/c9c1b731-a15e-49ab-89c8-c268408df141)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:pedroldesign@gmail.com)
 
 <br />
 
