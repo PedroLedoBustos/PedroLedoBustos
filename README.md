@@ -2,7 +2,7 @@
 ![banner_git](https://github.com/PedroLedoBustos/PedroLedoBustos/assets/152484958/b6954a5c-ab09-4758-a055-430609eaa10e)
 
 <br/>
-<a href="www.linkedin.com/in/pedro-ledo">
+<a href="www.linkedin.com/in/pedro-ledo](https://github.com/user-attachments/files/15891638/Curriculum.Pedro.pdf">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/ihemantjoshi">
